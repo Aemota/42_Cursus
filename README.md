@@ -1,4 +1,4 @@
-<h1 align="center"> Common Core - 42 School Cursus </h1>
+<h1 align="center"> Common Core - 42 School </h1>
 
 This repository contains all the projects that I have completed as a student of the "cursus" at 42 Málaga so far. The projects are organized by order of difficulty, with the titles and grades listed in the following table:
 
