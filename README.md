@@ -4,12 +4,14 @@ This repository contains all the projects that I have completed as a student of 
 
 <div align="center">
   
-| Number | Project Title   |	Grade |
-| ------ | --------------- | ----- |
-| 1      | LIBFT	         | 100%  | 
-| 2      | FT_PRINTF       | 100%  | 
-| 3      | GET NEXT LINE	 | 125%  | 
-| 4      | MINITALK	       | 100%  |  
+| Number | Project Title   |	Grade |                  |
+| ------ | --------------- | ------ | -----------------|
+| 1      | LIBFT	         | 100%   | ✅               |
+| 2      | FT_PRINTF       | 100%   | ✅               |
+| 3      | GET NEXT LINE	 | 125%   | ✅               |                
+| 4      | MINITALK	       | 100%   | ✅               |
+| 5      | SO_LONG         | 100%   | ✅ (No uploaded here)  |
+| 6      | PUSH_SWAP       |   🛠️     | In progress       |
 
 </div>
 The projects in this repository cover a range of topics in computer science and software engineering, from basic programming concepts to more advanced algorithms and data structures. Each project is designed to challenge students to apply their knowledge and skills in practical, real-world scenarios.
