@@ -8,7 +8,7 @@ This repository contains all the projects that I have completed as a student of 
 | ------ | --------------- | ------ | -----------------|
 | 1      | LIBFT	         | 100%   | <p text align= "center">✅ </p>       |
 | 2      | FT_PRINTF       | 100%   | <p text align= "center">✅ </p>               |
-| 3      | GET NEXT LINE	 | 125%   | <p text align= "center">✅ </p>               |                
+| 3      | GET_NEXT_LINE	 | 125%   | <p text align= "center">✅ </p>               |                
 | 4      | MINITALK	       | 100%   | <p text align= "center">✅ </p>               |
 | 5      | SO_LONG         | 100%   | <p text align= "center">✅ </p>  |
 | 6      | PUSH_SWAP       | <p text align= "center">🛠️</p>    | <p text align= "center">In progress </p>      |
