@@ -4,7 +4,7 @@ This repository contains all the projects that I have completed as a student of 
 
 <div align="center">
   
-| Nº | Project Title   |	Grade |                  |
+| Nº | Project Title   |	Grade |        State          |
 | ------ | --------------- | ------ | -----------------|
 | 1      | LIBFT	         | 100%   | <p text align= "center">✅ </p>       |
 | 2      | FT_PRINTF       | 100%   | <p text align= "center">✅ </p>               |
