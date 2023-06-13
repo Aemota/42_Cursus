@@ -9,7 +9,6 @@ The project is written in C language and utilizes the MLX42 library for the grap
 * Dynamic maze generation
 * Character movement using keyboard inputs
 * Collectibles to be gathered
-* Enemies to avoid
 * Score tracking
 * Collision detection
 * Game over and victory conditions
